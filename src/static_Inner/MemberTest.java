@@ -1,4 +1,4 @@
-package day0415_nested_class;
+package static_Inner;
 
 public class MemberTest {
 
